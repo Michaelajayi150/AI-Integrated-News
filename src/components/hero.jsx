@@ -1,5 +1,4 @@
-import robot from "../../assets/robot-face.png";
-import "./hero.css";
+import robot from "../assets/robot-face.png";
 import { Container, Col } from "react-bootstrap";
 
 function Hero() {

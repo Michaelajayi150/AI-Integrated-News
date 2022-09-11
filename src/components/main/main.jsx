@@ -10,6 +10,10 @@ function Main({ articles, active, mode }) {
       color: "primary",
       text: "Open number two",
     },
+    {
+      color: "danger",
+      text: "Go back",
+    },
   ];
   return (
     <div className="main">
