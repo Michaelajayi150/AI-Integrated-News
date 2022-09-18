@@ -41,11 +41,6 @@
   margin-bottom: 0;
 }
 
-.hero-section .hero-content {
-  position: absolute;
-  z-index: 1;
-}
-
 .hero-section .hero-image {
   width: auto;
   position: relative;
